@@ -1,0 +1,3 @@
+I learned about sets, tuples, lists, dictionaries and etc. in Python
+I created a diary program
+done for now
