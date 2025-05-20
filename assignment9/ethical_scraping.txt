@@ -1,0 +1,16 @@
+1. Which sections of the website are resricted for crawling?
+- /w/
+- /api/
+- /trap/
+- /wiki/Special:
+- /wiki/Wikipedia:* (user pages)
+- /wiki/MediaWiki
+- /wiki/Category:Noindexed_pages
+
+
+2. Are there specific rules for certain user agents?
+- User agents like 'MJ12bot', 'Mediapartners-Google*', 'wget', 'HTTrack' and others are disallowed from accessing the site.
+
+3. Why websites use robots.txt?
+- Websites use robots.txt to define which parts of their site are accessible to other crawlers or bots. 
+This protects sensitive data or areas that site doesn't want crawlers to access ensuring they avoid accessing unwanted content.

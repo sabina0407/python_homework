@@ -1,0 +1,7 @@
+While implementing the get_books.py script, I initially encountered issues with writing and structuring the correct lines of code. To resolve this, I frequently referred to the current lesson material and previous lessons, especially to recall how to use methods like .join() or how to save data in JSON format.
+
+Another challenge occurred when I ran the script and received an error related to Chrome not being installed. After installing Chrome, I reran the script and it worked correctly. 
+
+Task 6 also presented some difficulties with understanding and using XPath expressions. I wasn’t sure how to properly select elements using `strong` and `contains`, or why the `@` symbol was needed for attributes. I reviewed the XPath resources linked in the lesson and experimented in the browser’s developer tools to test XPath queries until I got the correct results.
+
+Overall, the combination of lesson resources, testing code incrementally, and learning by trial and error helped me overcome these challenges.
